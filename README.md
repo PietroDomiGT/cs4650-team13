@@ -34,10 +34,12 @@ Finally, you can run the model by doing
 We ran the models on a Colab notebooks to make use of the available GPU. To use it click on th following:
 
 BiDAF - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pe6WuBVGRMpGcuqOFfmzMlEi8UCaSZOm)
+
 ALBERT - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1Bh3d1h_cmE-ExxLbALq104LtcayBQXG3)
+
 BERT - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-https://colab.research.google.com/drive/1ZctjDf4bz7XbmQqHvmWNzQaSHI8M0uSj
+(https://colab.research.google.com/drive/1ZctjDf4bz7XbmQqHvmWNzQaSHI8M0uSj)
 
 To show the possible parameters to change and tune differently, run
 ```
